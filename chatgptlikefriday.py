@@ -2,10 +2,6 @@ import time
 import gradio as gr
 import openai
 
-def slow_echo(message, history):
-    for i in range(len(message)):
-        time.sleep(0.05)
-        yield "You typed: " + message[: i + 1]
 custom_css = """
 .gradio-container {
 height:100% !important;

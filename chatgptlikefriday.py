@@ -26,7 +26,7 @@ background-color:#0000ff !important;
 }
 """
 
-openai.api_key = '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'
+openai.api_key = 'Your API Key'
 
 farhat_ullah_bio = "Farhat Ullah is developer of F.R.I.D.A.Y skilled in Web Development Python, WordPress, HTML, CSS, PHP, Python web scraping, and automation. He has experience in creating websites and automating tasks, and aims to portray himself as a technical expert proficient in coding."
 
